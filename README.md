@@ -1,44 +1,26 @@
-# Priyanshu DevHare
+# Priyanshu Jha
 
-**Developer | Creator | Open Source Enthusiast**
+**Technical writer | API Docs | Writing Articles for Technology**
 
-Welcome to my digital space where I share projects, ideas, and solutions.
+This is my Github portfolio site where Showcase my work and proof of skill.
+---
+
+##  About Me
+
+I am a Technical writer focused on SaaS, API documentation , Articles for underlying and new technologies.
+
+-  **Tech Stack**: JavaScript, Python, C.
+-  **Interests**: Technical documentation, DevOps, Cloud technologies.
+-  **Learning**: SEO, Cloud, Ruby.
 
 ---
 
-## 👋 About Me
-
-I'm a passionate developer building things on the web and exploring new technologies. I love open source, problem-solving, and collaborating with the community.
-
-- 🔧 **Tech Stack**: JavaScript, Python, Web Development
-- 🚀 **Interests**: Full-stack development, DevOps, Cloud technologies
-- 📚 **Always Learning**: New frameworks, best practices, and industry trends
-
----
-
-## 🚀 Featured Projects
-
-### [Project Name 1](#)
-Brief description of what this project does and the tech stack used.
-- **Tech**: JavaScript, React, Node.js
-- **Status**: Active
-
-### [Project Name 2](#)
-Another interesting project you've built.
-- **Tech**: Python, Flask, PostgreSQL
-- **Status**: Completed
-
-> Add your actual projects here with links to their repositories!
-
----
-
-## 💬 Let's Connect
+## Social networks
 
 - **GitHub**: [@ArcticDevloperHare](https://github.com/ArcticDevloperHare)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile](#)
-- **Twitter/X**: [@YourHandle](#)
-
+- **Email**: priyanshu.arctichare.buisness@gmail.com
+- **LinkedIn**: [Priyanshu](https://www.linkedin.com/in/priyanshu-jha-81056040a/)
+  
 ---
 
 ## 📝 Recent Blog Posts
