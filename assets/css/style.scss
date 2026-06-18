@@ -1,3 +1,15 @@
 .sidebar {
   text-align: center;
 }
+
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-image: url('/assets/images/Tree.jpeg'), url('/assets/images/maple.jpeg');
+  background-size: 50% 100%, 50% 100%;
+  background-position: left, right;
+  background-repeat: no-repeat, no-repeat;
+}
