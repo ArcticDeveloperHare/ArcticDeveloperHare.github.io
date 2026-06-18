@@ -1,11 +1,11 @@
-title: Priyanshu DevHare
+title: Priyanshu
 description: Portfolio & Projects
 theme: jekyll-theme-minimal
 show_downloads: false
 
 # Site settings
 author: Priyanshu DevHare
-email: your.email@example.com
+email: priyanshu.arctichare.buisness@gmail.com
 baseurl: ""
 url: "https://arcticdevloperhare.github.io"
 
@@ -25,5 +25,5 @@ nav_links:
     url: /about
 
 github:
-  repository_url: https://github.com/ArcticDevloperHare/Priyanshu.DevHare.github.io
+  repository_url: https://github.com/ArcticDevloperHare/ArcticDevloperHare.github.io
   is_user_page: true
