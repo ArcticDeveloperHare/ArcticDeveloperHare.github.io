@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/JS',
               },
             ],
           },
@@ -190,7 +190,7 @@ export default {
           position: 'left',
         },
         {
-          to: '/docs/intro',
+          to: '/docs/JS',
           label: 'Articles',
           position: 'left',
         },
