@@ -16,7 +16,7 @@ Explaining technologies from basics, writing Top of the Funnel to Bottom of the 
 
 ## Social networks
 
-- **GitHub**: [@ArcticDevloperHare](https://github.com/ArcticDevloperHare)
+- **GitHub**: [@ArcticDeveloperHare](https://github.com/ArcticDeveloperHare)
 - **Email**: priyanshu.arctichare.buisness@gmail.com
 - **LinkedIn**: [Priyanshu](https://www.linkedin.com/in/priyanshu-jha-81056040a/)
   
