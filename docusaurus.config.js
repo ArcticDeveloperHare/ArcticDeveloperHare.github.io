@@ -86,7 +86,7 @@ const config = {
         title: 'Priyanshu Jha',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'static/img/logo.svg',
         },
         items: [
           {
