@@ -7,6 +7,7 @@ Welcome ! This is my personal profile site hosted in Github Pages via Docusaurus
 I am a software documentation writer, I sepecialize in helping developers with API Docs,  Writing onboarding guides for New and Old Software.
 Explaining technologies from basics, writing Top of the Funnel to Bottom of the Funnel Tech Blogs.
 
+---
 
 -  **Tech Stack**: JavaScript, Python, Postman, Docusaurus, Git, Github, Swagger UI (npm).
 -  **Interests**:  DevOps, Cloud technologies, New Computer Interfaces.
